@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinMvpHelloWord</string>
+    <string name="hello_word">Hello Word</string>
+    <string name="click_button">Tıkla</string>
+</resources>
